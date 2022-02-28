@@ -1,2 +1,2 @@
-# speizeretal_humidheatextremes
+# speizeretal_2022_humidheatextremes
 This repository contains the Jupyter notebooks used to conduct the analyses and produce the figures for Speizer et al. 2022, "Concentrated and intensifying humid heat extremes in the IPCC AR6 regions" (doi: 10.1029/2021GL097261). *Final analysis and calculations.ipnyb* includes the analysis code; *Final figures.ipynb* includes the code for creating the figures presented in the paper.
